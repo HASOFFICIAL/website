@@ -44,3 +44,9 @@ body{
     padding-right: 25%;
     padding-top: 30px;
 }
+.pop{
+    margin: auto;
+    background-color: #a6a6a6;
+    overflow-x: scroll;
+    border-radius: 0.2cm;
+}
